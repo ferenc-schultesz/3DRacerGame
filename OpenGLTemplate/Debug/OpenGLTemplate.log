@@ -1,0 +1,39 @@
+﻿  VertexBufferObjectIndexed.cpp
+  VertexBufferObject.cpp
+  Timer.cpp
+  Time.cpp
+  Texture.cpp
+  StaticMesh.cpp
+  SpotLight.cpp
+  Sphere.cpp
+  SpeedUp.cpp
+  Skybox.cpp
+  ShipNPC.cpp
+ShipNPC.cpp(59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Shaders.cpp
+  Player.cpp
+Player.cpp(57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Plane.cpp
+  PathNPC.cpp
+PathNPC.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  PathLight.cpp
+  OpenAssetImportMesh.cpp
+  MatrixStack.cpp
+  HighResolutionTimer.cpp
+  HeightMapTerrain.cpp
+  Generating Code...
+  Compiling...
+  GameWindow.cpp
+  Game.cpp
+Game.cpp(719): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  FreeTypeFont.cpp
+  FaceVertexMesh.cpp
+  Cubemap.cpp
+  Cube.cpp
+  CatmullRom.cpp
+  Camera.cpp
+Camera.cpp(129): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Audio.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> D:\University\IN3005 Computer Graphics\Submit\Source\Debug\OpenGLTemplate.exe
+  OpenGLTemplate.vcxproj -> D:\University\IN3005 Computer Graphics\Submit\Source\Debug\OpenGLTemplate.pdb (Full PDB)

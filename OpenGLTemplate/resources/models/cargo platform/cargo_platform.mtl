@@ -1,0 +1,68 @@
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/dmz2.jpg
+
+newmtl default_platform
+d 1
+Ns 0.75
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/olg1.jpg
+
+newmtl default_hangar_doors
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/drf1.jpg
+
+newmtl default_floor
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/acv1.jpg
+
+newmtl default_structure
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/sx2c.jpg
+
+newmtl default_sign
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+
+newmtl default_sign_sign
+d 1
+Ns 1
+Ni 0
+Ka 0.501961 1 0
+Kd 0.501961 1 0
+Ks 1 1 1
+Km 0
+
